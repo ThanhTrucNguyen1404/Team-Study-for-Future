@@ -1,0 +1,342 @@
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.AssemblyReference.cache
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemDatHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemXeMay.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemGioHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelGioHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelListXeMay.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormBackupRestore.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangKy.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangNhap.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDatHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDoiMK.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormGioHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormListXeMay.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainKH.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainNV.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLDonDatHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLXeMay.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLNhanVien.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLPhieuNhap.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLTaiKhoan.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormRestoreLog.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTDonHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTPhieuNhap.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTDonDatHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTPhieuNhap.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemDonDatHang.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.Properties.Resources.resources
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.GenerateResource.cache
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe.licenses
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe.config
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.pdb
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CoreCompileInputs.cache
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CopyComplete
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe
+C:\Users\nhann\Downloads\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.pdb
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe.config
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.pdb
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.AssemblyReference.cache
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemDatHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemXeMay.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemGioHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelGioHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelListXeMay.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormBackupRestore.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangKy.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangNhap.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDatHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDoiMK.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormGioHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormListXeMay.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainKH.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainNV.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLDonDatHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLXeMay.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLNhanVien.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLPhieuNhap.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLTaiKhoan.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormRestoreLog.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTDonHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTPhieuNhap.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTDonDatHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTPhieuNhap.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemDonDatHang.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.Properties.Resources.resources
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.GenerateResource.cache
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe.licenses
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CoreCompileInputs.cache
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CopyComplete
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe
+C:\Users\nhann\Downloads\ProjBanXeMay\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.pdb
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe.config
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.pdb
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.BonusSkins.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.AssemblyReference.cache
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemDatHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemXeMay.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemGioHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelGioHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelListXeMay.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormBackupRestore.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangKy.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangNhap.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDatHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDoiMK.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormGioHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormListXeMay.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainKH.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainNV.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLDonDatHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLXeMay.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLNhanVien.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLPhieuNhap.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLTaiKhoan.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormRestoreLog.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTDonHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTPhieuNhap.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTDonDatHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTPhieuNhap.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemDonDatHang.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.Properties.Resources.resources
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.GenerateResource.cache
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe.licenses
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CoreCompileInputs.cache
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMay.7699529A.Up2Date
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe
+D:\Coding\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.pdb
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe.config
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.exe
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\BanXeMayTTCS.pdb
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.AssemblyReference.cache
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemDatHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemXeMay.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.ItemGioHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelGioHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.CustomComponent.PanelListXeMay.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormBackupRestore.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangKy.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDangNhap.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDatHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormDoiMK.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormGioHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormListXeMay.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainKH.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormMainNV.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLDonDatHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLXeMay.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLNhanVien.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLPhieuNhap.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormQLTaiKhoan.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormRestoreLog.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTDonHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormSuaCTPhieuNhap.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTDonDatHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemCTPhieuNhap.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.GUI.FormThemDonDatHang.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.Properties.Resources.resources
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.GenerateResource.cache
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe.licenses
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.csproj.CoreCompileInputs.cache
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMay.7699529A.Up2Date
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.exe
+D:\Coding\BanXeMayFinal\ProjBanXeMay - Backup\BanXeMayTTCS\BanXeMayTTCS\obj\Debug\BanXeMayTTCS.pdb

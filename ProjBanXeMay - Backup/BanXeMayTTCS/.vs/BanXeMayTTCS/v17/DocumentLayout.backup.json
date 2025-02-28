@@ -1,0 +1,834 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|d:\\coding\\banxemayfinal\\projbanxemay - backup\\banxemayttcs\\banxemayttcs\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formsuactdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formsuactdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formsuactdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formsuactdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqlphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqlphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formmainnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formmainnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formmainkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formmainkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqltaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formlistxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formlistxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqldondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqldondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqlxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqlxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formqldondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formqldondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formthemctphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formthemctphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formthemctdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formthemctdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formsuactphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formsuactphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formrestorelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formrestorelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\xemaydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\xemaydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\phieunhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\phieunhapdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\phieudatkhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\phieudatkhdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\dondathangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\dondathangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\xemaykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\xemaykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formbackuprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formbackuprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formbackuprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formbackuprestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\phieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\phieudatkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\phieudatkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\myformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\myformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\dondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\ctphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\ctphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\ctdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\ctdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\ctdathangkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\ctdathangkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dto\\backuphistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dto\\backuphistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\dao\\backupdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\dao\\backupdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formthemdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formthemdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formthemdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formthemdondathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formlistxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formlistxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formmainnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formmainnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\banxemayttcs\\gui\\formmainkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763AC9A-9EFE-4DB5-B946-71B6D529705E}|BanXeMayTTCS\\BanXeMayTTCS.csproj|solutionrelative:banxemayttcs\\gui\\formmainkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSuaCTDonHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:56:40.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormQLDonDatHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAlwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:54:30.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSuaCTPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTPhieuNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormSuaCTPhieuNhap.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTPhieuNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:37:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSuaCTDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormSuaCTDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:37:52.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormRestoreLog.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormRestoreLog.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormRestoreLog.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormRestoreLog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormRestoreLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:36:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XeMayDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\XeMayDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\XeMayDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\XeMayDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\XeMayDAO.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAkwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:30:28.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PhieuNhapDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\PhieuNhapDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\PhieuNhapDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\PhieuNhapDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\PhieuNhapDAO.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:26:10.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhieuDatKhDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\PhieuDatKhDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\PhieuDatKhDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\PhieuDatKhDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\PhieuDatKhDAO.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:24:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhanVienDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\NhanVienDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\NhanVienDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\NhanVienDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\NhanVienDAO.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:19:34.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormDoiMK.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:16:27.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDatHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAzwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:16:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:16:12.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv5oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:16:05.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormBackupRestore.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA6wHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:15:53.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "XeMayKH.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\XeMayKH.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\XeMayKH.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\XeMayKH.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\XeMayKH.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:29.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "XeMay.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\XeMay.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\XeMay.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\XeMay.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\XeMay.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PhieuNhap.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\PhieuNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\PhieuNhap.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\PhieuNhap.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\PhieuNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhieuDatKh.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\PhieuDatKh.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\PhieuDatKh.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\PhieuDatKh.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\PhieuDatKh.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\NhanVien.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\NhanVien.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\NhanVien.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:14:08.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\KhachHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\KhachHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\KhachHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\KhachHang.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:13:50.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CTPhieuNhap.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CTPhieuNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\CTPhieuNhap.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CTPhieuNhap.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\CTPhieuNhap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:13:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CTDonDatHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CTDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\CTDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CTDonDatHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\CTDonDatHang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:13:32.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CtDatHangKh.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CtDatHangKh.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\CtDatHangKh.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\CtDatHangKh.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\CtDatHangKh.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:13:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BackupHistory.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\BackupHistory.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\BackupHistory.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\BackupHistory.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\BackupHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:13:17.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DonDatHangDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\DonDatHangDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\DonDatHangDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\DonDatHangDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\DonDatHangDAO.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:10:11.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwKcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:08:13.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BackupDAO.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\BackupDAO.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DAO\\BackupDAO.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DAO\\BackupDAO.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DAO\\BackupDAO.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAkwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:58:02.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormThemCTDonDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormThemCTDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTDonDatHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:58:00.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormThemCTPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTPhieuNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormThemCTPhieuNhap.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTPhieuNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemCTPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:57:58.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MyFormat.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\MyFormat.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\MyFormat.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\MyFormat.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\MyFormat.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:57:11.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\Loai.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\Loai.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\Loai.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\Loai.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:57:10.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DonDatHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\DonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\DTO\\DonDatHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\DTO\\DonDatHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\DTO\\DonDatHang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:57:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormThemDonDatHang.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:52:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormThemDonDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormThemDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:52:25.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormQLDonDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLDonDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:50:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormListXeMay.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:50:10.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormBackupRestore.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormBackupRestore.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormBackupRestore.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormBackupRestore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDangKy.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDangNhap.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:44.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQLPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLPhieuNhap.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLPhieuNhap.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLPhieuNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:42.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormQLTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLTaiKhoan.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLTaiKhoan.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLTaiKhoan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormQLXeMay.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLXeMay.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLXeMay.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLXeMay.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLXeMay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:43:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormQLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLNhanVien.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormQLNhanVien.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormQLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:36:57.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDatHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDatHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:36:49.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDoiMK.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormDoiMK.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDoiMK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:36:48.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGioHang.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormGioHang.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormGioHang.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormGioHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormGioHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:36:45.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormListXeMay.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormListXeMay.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormListXeMay.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormListXeMay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:29:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormMainNV.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:25:38.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMainNV.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormMainNV.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainNV.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:21:31.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormMainKH.cs",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "RelativeToolTip": "BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:07:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMainKH.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\GUI\\FormMainKH.cs",
+              "ToolTip": "D:\\Coding\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainKH.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\GUI\\FormMainKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:04:13.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\App.config",
+              "RelativeDocumentMoniker": "BanXeMayTTCS\\App.config",
+              "ToolTip": "D:\\Coding\\BanXeMayFinal\\ProjBanXeMay - Backup\\BanXeMayTTCS\\BanXeMayTTCS\\App.config",
+              "RelativeToolTip": "BanXeMayTTCS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-07T02:03:10.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
