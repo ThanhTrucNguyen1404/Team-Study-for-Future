@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Bundling and Monification - Not Optimized.props" />
-</Project>
