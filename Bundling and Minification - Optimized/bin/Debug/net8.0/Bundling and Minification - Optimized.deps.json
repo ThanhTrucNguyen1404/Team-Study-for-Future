@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bundling and Minification - Optimized/1.0.0": {
+        "dependencies": {
+          "BuildBundlerMinifier": "3.2.449",
+          "LigerShark.WebOptimizer.Core": "3.0.433"
+        },
+        "runtime": {
+          "Bundling and Minification - Optimized.dll": {}
+        }
+      },
+      "BuildBundlerMinifier/3.2.449": {},
+      "LigerShark.WebOptimizer.Core/3.0.433": {
+        "dependencies": {
+          "NUglify": "1.21.9"
+        },
+        "runtime": {
+          "lib/net8.0/WebOptimizer.Core.dll": {
+            "assemblyVersion": "3.0.433.0",
+            "fileVersion": "3.0.433.0"
+          }
+        }
+      },
+      "NUglify/1.21.9": {
+        "runtime": {
+          "lib/net5.0/NUglify.dll": {
+            "assemblyVersion": "1.21.9.0",
+            "fileVersion": "1.21.9.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bundling and Minification - Optimized/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildBundlerMinifier/3.2.449": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
+      "path": "buildbundlerminifier/3.2.449",
+      "hashPath": "buildbundlerminifier.3.2.449.nupkg.sha512"
+    },
+    "LigerShark.WebOptimizer.Core/3.0.433": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8NKU0iVfdVMrcIbMBMLgablHMY5dbYNoX+j0sV7JGufYd9504vD8yOiPoBqofHGfYT6wmN9kMts9Cn5jOOxtFA==",
+      "path": "ligershark.weboptimizer.core/3.0.433",
+      "hashPath": "ligershark.weboptimizer.core.3.0.433.nupkg.sha512"
+    },
+    "NUglify/1.21.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ULyI/scrIRAo2In6cnaCc/QkWUt+wB6pBVt5lrVddOKyamsCAm1XgArkk4px9tVn6SipjhbTt4M38QPlpoET+g==",
+      "path": "nuglify/1.21.9",
+      "hashPath": "nuglify.1.21.9.nupkg.sha512"
+    }
+  }
+}
