@@ -1,0 +1,34 @@
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\appsettings.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.staticwebassets.runtime.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.staticwebassets.endpoints.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.exe
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.deps.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.runtimeconfig.json
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.dll
+D:\Coding\Bundling and Monification - Not Optimized\bin\Debug\net8.0\Bundling and Monification - Not Optimized.pdb
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.AssemblyInfoInputs.cache
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.AssemblyInfo.cs
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.csproj.CoreCompileInputs.cache
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.RazorAssemblyInfo.cache
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.RazorAssemblyInfo.cs
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\scopedcss\bundle\Bundling and Monification - Not Optimized.styles.css
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\scopedcss\projectbundle\Bundling and Monification - Not Optimized.bundle.scp.css
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets\msbuild.Bundling and Monification - Not Optimized.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets\msbuild.Bundling and Monification - Not Optimized.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets\msbuild.build.Bundling and Monification - Not Optimized.props
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bundling and Monification - Not Optimized.props
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bundling and Monification - Not Optimized.props
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.dll
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\refint\Bundling and Monification - Not Optimized.dll
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.pdb
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\Bundling and Monification - Not Optimized.genruntimeconfig.cache
+D:\Coding\Bundling and Monification - Not Optimized\obj\Debug\net8.0\ref\Bundling and Monification - Not Optimized.dll
