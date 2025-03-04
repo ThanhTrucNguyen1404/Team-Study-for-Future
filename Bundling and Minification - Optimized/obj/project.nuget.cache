@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "casqgPqbOx4=",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Bundling and Minification - Optimized\\Bundling and Minification - Optimized.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\ligershark.weboptimizer.core\\3.0.433\\ligershark.weboptimizer.core.3.0.433.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nuglify\\1.21.9\\nuglify.1.21.9.nupkg.sha512"
+  ],
+  "logs": []
+}

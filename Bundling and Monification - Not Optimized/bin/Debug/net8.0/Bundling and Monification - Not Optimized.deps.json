@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bundling and Monification - Not Optimized/1.0.0": {
+        "runtime": {
+          "Bundling and Monification - Not Optimized.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bundling and Monification - Not Optimized/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
