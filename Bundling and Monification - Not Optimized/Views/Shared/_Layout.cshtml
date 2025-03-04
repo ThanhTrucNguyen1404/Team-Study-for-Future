@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BundlingMinificationDemo - Not Optimized</title>
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/MyStyleSheet.css" rel="stylesheet" />
+    <link href="~/css/StyleSheet2.css" rel="stylesheet" />
+
+    <script src="~/js/JavaScript2.js"></script>
+    <script src="~/js/MyJavaScript.js"></script>
+    <script src="~/js/site.js"></script>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,40 @@
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\appsettings.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\bundleconfig.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.staticwebassets.runtime.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.staticwebassets.endpoints.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.exe
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.deps.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.runtimeconfig.json
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.dll
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\Bundling and Minification - Optimized.pdb
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.AssemblyInfoInputs.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.AssemblyInfo.cs
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.csproj.CoreCompileInputs.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.RazorAssemblyInfo.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.RazorAssemblyInfo.cs
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\scopedcss\bundle\Bundling and Minification - Optimized.styles.css
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\scopedcss\projectbundle\Bundling and Minification - Optimized.bundle.scp.css
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets\msbuild.Bundling and Minification - Optimized.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets\msbuild.Bundling and Minification - Optimized.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets\msbuild.build.Bundling and Minification - Optimized.props
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bundling and Minification - Optimized.props
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bundling and Minification - Optimized.props
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.dll
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\refint\Bundling and Minification - Optimized.dll
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.pdb
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.genruntimeconfig.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\ref\Bundling and Minification - Optimized.dll
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\WebOptimizer.Core.dll
+D:\Coding\Bundling and Minification - Optimized\bin\Debug\net8.0\NUglify.dll
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.csproj.AssemblyReference.cache
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling and Minification - Optimized.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\Bundling and Minification - Optimized\obj\Debug\net8.0\Bundling.7305F4D5.Up2Date
