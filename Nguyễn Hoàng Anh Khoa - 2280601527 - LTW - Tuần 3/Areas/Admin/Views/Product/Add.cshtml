@@ -1,0 +1,33 @@
+﻿@model Nguyễn_Hoàng_Anh_Khoa___2280601527___LTW___Tuần_3.Models.Product
+
+
+<h2 class="text-center my-4">Thêm mới sản phẩm</h2>
+
+<form asp-action="Add" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="Name">Tên sản phẩm:</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Price">Giá:</label>
+        <input type="number" asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Description">Mô tả:</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="CategoryId">Danh mục:</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ImageUrl">Ảnh sản phẩm:</label>
+        <input type="file" asp-for="ImageUrl" class="form-control" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

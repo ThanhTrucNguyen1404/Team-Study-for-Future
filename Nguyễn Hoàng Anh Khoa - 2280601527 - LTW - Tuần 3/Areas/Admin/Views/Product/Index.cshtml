@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Nguyễn_Hoàng_Anh_Khoa___2280601527___LTW___Tuần_3.Models.Product>
+
+<h2 class="text-center my-4 text-primary">Danh Sách Sản Phẩm</h2>
+<a asp-action="Add" class="btn btn-primary mb-3">Thêm mới sản phẩm</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="bg-warning text-dark text-center">
+        <tr>
+            <th>Ảnh</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Giá</th>
+            <th>Mô Tả</th>
+            <th>Danh Mục</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr class="text-center">
+                <td>
+                    <img src="@product.ImageUrl" style="width: 80px; height: 80px;" />
+                </td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>@(product.Category?.Name ?? "Không có danh mục")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

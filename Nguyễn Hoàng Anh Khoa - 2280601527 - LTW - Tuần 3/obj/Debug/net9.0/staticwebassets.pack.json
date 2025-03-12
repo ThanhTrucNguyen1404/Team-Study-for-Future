@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.luu6pa92wp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\180ae8dc-6930-4e96-8336-79a52f2cb0ee_2ce5e0708c9230cc6983.jpg",
+      "PackagePath": "staticwebassets\\Images\\180ae8dc-6930-4e96-8336-79a52f2cb0ee_2ce5e0708c9230cc6983.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\1ef6d106ee8a52d40b9b.jpg",
+      "PackagePath": "staticwebassets\\Images\\1ef6d106ee8a52d40b9b.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\51708322-605f-467a-b62b-38367e016c79_2ce5e0708c9230cc6983.jpg",
+      "PackagePath": "staticwebassets\\Images\\51708322-605f-467a-b62b-38367e016c79_2ce5e0708c9230cc6983.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\86d31947-7e7f-41d6-9f22-2dd4e67635d6_1ef6d106ee8a52d40b9b.jpg",
+      "PackagePath": "staticwebassets\\Images\\86d31947-7e7f-41d6-9f22-2dd4e67635d6_1ef6d106ee8a52d40b9b.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\FD0D48DA-339A-4B7C-93F8-529ECB4A438C.png",
+      "PackagePath": "staticwebassets\\Images\\FD0D48DA-339A-4B7C-93F8-529ECB4A438C.png"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\Screenshot 2025-02-15 235933.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot 2025-02-15 235933.png"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\Images\\de157b83-99e8-4050-826f-bd7e911dd534_2fbaf86b5b66e738be77.jpg",
+      "PackagePath": "staticwebassets\\Images\\de157b83-99e8-4050-826f-bd7e911dd534_2fbaf86b5b66e738be77.jpg"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Coding\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props",
+      "PackagePath": "build\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props",
+      "PackagePath": "buildMultiTargeting\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props",
+      "PackagePath": "buildTransitive\\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

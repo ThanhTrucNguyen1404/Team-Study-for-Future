@@ -1,0 +1,996 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\admin\\views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\admin\\views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\employee\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\employee\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\employee\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\employee\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\customer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\customer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\employee\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\employee\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\customer\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\customer\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\migrations\\20250305054825_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:migrations\\20250305054825_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\migrations\\20250226090747_themidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:migrations\\20250226090747_themidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\migrations\\20250222082458_khoitaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:migrations\\20250222082458_khoitaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\categories\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\categories\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|d:\\coding\\nguy\u1EC5n ho\u00E0ng anh khoa - 2280601527 - ltw - tu\u1EA7n 3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8252454-DB85-488C-9717-87FAC7AF2FB5}|Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj|solutionrelative:repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T08:47:18.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T07:52:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T07:52:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Employee\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Employee\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T07:18:24.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Employee\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Employee\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T07:18:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Employee\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Employee\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Employee\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:08:03.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:52:12.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T06:44:33.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T06:24:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Customer\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Customer\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:21:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Add.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:18:11.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:17:32.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:17:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:16:41.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:16:10.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:08:11.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Admin\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:05:34.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "Models\\SD.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\SD.cs",
+              "RelativeToolTip": "Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:49:05.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAQwHoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:50:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250305054825_ExtendIdentityUser.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250305054825_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250305054825_ExtendIdentityUser.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250305054825_ExtendIdentityUser.cs",
+              "RelativeToolTip": "Migrations\\20250305054825_ExtendIdentityUser.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:48:25.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:38:14.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:57:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:57:40.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T05:57:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:38:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:37:24.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:31:36.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:31:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-26T09:19:40.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "RelativeDocumentMoniker": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "RelativeToolTip": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T09:17:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "RelativeDocumentMoniker": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "RelativeToolTip": "Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T09:17:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250226090747_ThemIdentity.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250226090747_ThemIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250226090747_ThemIdentity.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250226090747_ThemIdentity.cs",
+              "RelativeToolTip": "Migrations\\20250226090747_ThemIdentity.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAowEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:07:47.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:39:02.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:38:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:38:16.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Update.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Update.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:31:22.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Display.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Categories\\Display.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:30:02.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:15:49.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:23:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:13:57.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:20:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:18:37.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T09:19:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T08:52:50.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T08:52:05.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T08:51:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T08:51:01.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T08:49:28.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:42:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:34:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:33:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:32:21.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:32:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:27:14.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250222082458_KhoiTaoModel.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250222082458_KhoiTaoModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250222082458_KhoiTaoModel.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Migrations\\20250222082458_KhoiTaoModel.cs",
+              "RelativeToolTip": "Migrations\\20250222082458_KhoiTaoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:24:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T07:40:03.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:39:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:38:46.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Models\\ProductImage.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:21:57.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:21:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Coding\\Nguy\u1EC5n Ho\u00E0ng Anh Khoa - 2280601527 - LTW - Tu\u1EA7n 3\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T07:21:17.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
