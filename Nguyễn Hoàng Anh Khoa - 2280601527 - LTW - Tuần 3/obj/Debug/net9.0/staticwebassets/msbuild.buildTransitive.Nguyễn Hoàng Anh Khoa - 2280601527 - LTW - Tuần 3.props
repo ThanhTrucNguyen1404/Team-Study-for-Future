@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nguyễn Hoàng Anh Khoa - 2280601527 - LTW - Tuần 3.props" />
+</Project>

@@ -1,0 +1,13 @@
+﻿@model Nguyễn_Hoàng_Anh_Khoa___2280601527___LTW___Tuần_3.Models.Product
+
+<h2 class="text-center my-4">Xóa sản phẩm</h2>
+
+<div class="alert alert-danger">
+    Bạn có chắc muốn xóa sản phẩm <strong>@Model.Name</strong>?
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

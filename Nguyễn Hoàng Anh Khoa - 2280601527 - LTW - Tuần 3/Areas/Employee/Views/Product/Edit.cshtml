@@ -1,0 +1,52 @@
+﻿@model Nguyễn_Hoàng_Anh_Khoa___2280601527___LTW___Tuần_3.Models.Product
+
+<h2 class="text-center my-4 text-primary">Cập nhật sản phẩm</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label for="Name">Tên sản phẩm:</label>
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Giá:</label>
+        <input type="number" asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Mô tả:</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="CategoryId">Danh mục:</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="CurrentImage">Ảnh hiện tại:</label><br />
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="@Model.ImageUrl" alt="Product Image" style="max-width: 150px; max-height: 150px;" />
+        }
+        else
+        {
+            <p class="text-muted">Không có ảnh</p>
+        }
+    </div>
+
+    <div class="form-group">
+        <label for="ImageUrl">Chọn ảnh mới:</label>
+        <input type="file" asp-for="ImageUrl" class="form-control" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

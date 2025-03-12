@@ -1,0 +1,114 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<h2 class="text-center my-4">🛍️ Products List</h2>
+
+<!-- Fancy Search Bar -->
+<div class="mb-4 d-flex justify-content-center">
+    <div class="search-container">
+        <input type="text" id="searchBox" class="search-input" placeholder="🔍 Search for products..." autocomplete="off">
+    </div>
+</div>
+
+<table class="table table-hover table-bordered shadow-sm">
+    <thead class="table-dark text-center">
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="productTable" class="align-middle text-center">
+        @foreach (var product in Model)
+        {
+            <tr class="product-row">
+                <td>
+                    <img src="@product.ImageUrl" alt="Ảnh @product.Name" class="rounded shadow-sm" style="width: 80px; height: 80px; object-fit: cover;">
+                </td>
+                <td class="fw-bold product-name">@product.Name</td>
+                <td class="text-success fw-bold">$@product.Price</td>
+                <td class="text-muted product-description" style="max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+                    @product.Description
+                </td>
+                <td class="product-category">@product.Category?.Name</td>
+                <td>
+                    <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-info btn-sm text-white">👁️ View</a>
+                    @if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+                    {
+                        <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning btn-sm">✏️ Edit</a>
+                    }
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this product?')">🗑️ Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    /* Fancy Search Bar */
+    .search-container {
+        position: relative;
+        width: 50%;
+    }
+
+    .search-input {
+        width: 100%;
+        padding: 12px 40px;
+        border: 2px solid #007bff;
+        border-radius: 25px;
+        font-size: 16px;
+        transition: all 0.3s ease-in-out;
+        outline: none;
+        box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+    }
+
+        .search-input:focus {
+            border-color: #ffcc00;
+            box-shadow: 0 4px 12px rgba(255, 204, 0, 0.4);
+        }
+
+    .search-container::before {
+        content: "🔍";
+        position: absolute;
+        left: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 20px;
+        color: #007bff;
+        transition: color 0.3s ease-in-out;
+    }
+
+    .search-input:focus + .search-container::before {
+        color: #ffcc00;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let searchBox = document.getElementById("searchBox");
+        let productRows = document.querySelectorAll(".product-row");
+
+        searchBox.addEventListener("keyup", function () {
+            let searchText = searchBox.value.toLowerCase().trim();
+
+            productRows.forEach(row => {
+                let name = row.querySelector(".product-name").textContent.toLowerCase();
+                let description = row.querySelector(".product-description").textContent.toLowerCase();
+                let category = row.querySelector(".product-category").textContent.toLowerCase();
+
+                if (name.includes(searchText) || description.includes(searchText) || category.includes(searchText)) {
+                    row.style.display = "";
+                } else {
+                    row.style.display = "none";
+                }
+            });
+        });
+    });
+</script>

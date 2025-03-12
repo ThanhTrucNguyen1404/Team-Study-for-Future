@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Technology Store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Nhom7_VoMinhCaoKy.styles.css" asp-append-version="true" />
+    <style>
+        /* Fancy Navbar */
+        .navbar {
+            background: linear-gradient(135deg, #1b6ec2, #0056b3);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            color: white !important;
+            transition: color 0.3s ease-in-out;
+        }
+
+            .navbar-brand:hover {
+                color: #ffcc00 !important;
+            }
+
+        .nav-link {
+            color: white !important;
+            transition: all 0.3s ease-in-out;
+        }
+
+            .nav-link:hover {
+                color: #ffcc00 !important;
+                transform: scale(1.1);
+            }
+
+        /* Fancy Footer */
+        .footer {
+            background: linear-gradient(135deg, #1b6ec2, #0056b3);
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            font-weight: bold;
+        }
+
+            .footer a {
+                color: #ffcc00;
+                transition: color 0.3s ease-in-out;
+            }
+
+                .footer a:hover {
+                    color: white;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Technology Store</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Product" asp-action="Index">Products</a>
+                        </li>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Product" asp-action="Add">Add Product</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Categories" asp-action="Add">Add Categories</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Categories" asp-action="Index">Categories</a>
+                                </li>
+                            }
+                            else if (User.IsInRole("Customer"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Cart" asp-action="Index">My Cart</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-controller="Order" asp-action="Index">My Orders</a>
+                                </li>
+                            }
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="footer mt-auto">
+        <div class="container">
+            &copy; 2025 Technology Store - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,106 @@
+/* Fancy Styling for ASP.NET Core Project */
+
+/* Navbar Brand */
+a.navbar-brand[b-6ybgh2kedj] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-word;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #0056b3;
+    transition: color 0.3s ease-in-out;
+}
+
+    a.navbar-brand:hover[b-6ybgh2kedj] {
+        color: #ff6600;
+    }
+
+/* Global Link Styling */
+a[b-6ybgh2kedj] {
+    color: #0077cc;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+    a:hover[b-6ybgh2kedj] {
+        color: #ff6600;
+        text-decoration: underline;
+    }
+
+/* Primary Button */
+.btn-primary[b-6ybgh2kedj] {
+    color: #fff;
+    background: linear-gradient(135deg, #1b6ec2, #0056b3);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+    .btn-primary:hover[b-6ybgh2kedj] {
+        background: linear-gradient(135deg, #0056b3, #1b6ec2);
+        transform: scale(1.05);
+    }
+
+/* Nav Pills */
+.nav-pills .nav-link.active[b-6ybgh2kedj], .nav-pills .show > .nav-link[b-6ybgh2kedj] {
+    color: #fff;
+    background: linear-gradient(135deg, #1b6ec2, #0056b3);
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+    .nav-pills .nav-link.active:hover[b-6ybgh2kedj] {
+        background: linear-gradient(135deg, #0056b3, #1b6ec2);
+        transform: scale(1.05);
+    }
+
+/* Borders */
+.border-top[b-6ybgh2kedj] {
+    border-top: 2px solid #ddd;
+}
+
+.border-bottom[b-6ybgh2kedj] {
+    border-bottom: 2px solid #ddd;
+}
+
+/* Box Shadow */
+.box-shadow[b-6ybgh2kedj] {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+    .box-shadow:hover[b-6ybgh2kedj] {
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+/* Accept Policy Button */
+button.accept-policy[b-6ybgh2kedj] {
+    font-size: 1rem;
+    line-height: inherit;
+    background: linear-gradient(135deg, #ff6600, #ff3300);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+}
+
+    button.accept-policy:hover[b-6ybgh2kedj] {
+        background: linear-gradient(135deg, #ff3300, #ff6600);
+        transform: scale(1.05);
+    }
+
+/* Footer */
+.footer[b-6ybgh2kedj] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    background: linear-gradient(135deg, #1b6ec2, #0056b3);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+}
